@@ -7,7 +7,8 @@
 | Ebay | [Software Engineer](https://app.ripplematch.com/job/ebay/2b9fc4a1/) </br> [Data Science](https://app.ripplematch.com/job/ebay/ce4506c5/) | graduating dec 2023-june 2024 requirement |
 | Intuit | [Software Engineer](http://jobs.intuit.com/job/toronto/software-developer-co-op/27595/35936209984) </br> [Other Roles](https://jobs.intuit.com/search-jobs/Toronto%2C%20Canada/27595/4/6251999-6093943-6167865/43x70011/-79x4163/50/2)
 | Konrad | [Software Engineer](https://boards.greenhouse.io/konradgroup/jobs/5268040003)
-| Mark43 | [Software Enginner](https://mark43.com/list-job/?gh_jid=4726017)
+| Mark43 | [Software Engineer](https://mark43.com/list-job/?gh_jid=4726017)
+| Red Hat | [Software Engineer](https://us-redhat.icims.com/jobs/97300/software-engineering-internship/job)
 | Ribbit | [Software Engineer - Robotics](https://flyribbit.applytojobs.ca/engineering/14771)
 | Scotiabank | [Software Engineer](https://jobs.scotiabank.com/job/Toronto-Velocity-Software-Engineer-InternshipCo-Op-Summer-2023-ON/565956517/) </br> [Other Roles](https://jobs.scotiabank.com/search/?createNewAlert=false&q=velocity&locationsearch=Toronto%2C+ON%2C+CA)
 | Snowflake | [Software Engineer](https://careers.snowflake.com/us/en/job/6399242002/Software-Engineer-Intern-Toronto-Summer-2023)
