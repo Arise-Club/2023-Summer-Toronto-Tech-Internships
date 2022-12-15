@@ -1,4 +1,4 @@
-# 2023 Summer CS Internships | Toronto
+# 2023 Summer Tech Internships | Toronto
 | Company | Positions | Notes |
 | --- | --- | --- |
 | Amazon | [Software Engineer](https://www.amazon.jobs/en/jobs/2114265/software-development-engineer-intern-2023-canada)
