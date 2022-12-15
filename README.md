@@ -11,11 +11,11 @@
 | Red Hat | [Software Engineer](https://us-redhat.icims.com/jobs/97300/software-engineering-internship/job)
 | Ribbit | [Software Engineer - Robotics](https://flyribbit.applytojobs.ca/engineering/14771)
 | Scotiabank | [Software Engineer](https://jobs.scotiabank.com/job/Toronto-Velocity-Software-Engineer-InternshipCo-Op-Summer-2023-ON/565956517/) </br> [Other Roles](https://jobs.scotiabank.com/search/?createNewAlert=false&q=velocity&locationsearch=Toronto%2C+ON%2C+CA)
+| Slack | [Software Engineer](https://salesforce.wd1.myworkdayjobs.com/Slack/job/Canada---Vancouver/XMLNAME-2023-Summer-Intern---Software-Engineer--Slack-_JR158798) | remote position available for toronto 
 | Snowflake | [Software Engineer](https://careers.snowflake.com/us/en/job/6399242002/Software-Engineer-Intern-Toronto-Summer-2023)
 | Square |[Software Engineer](https://www.smartrecruiters.com/Square/743999871611051) </br> [Mobile Developer](https://www.smartrecruiters.com/Square/743999871612231)
 | Tesla | [Software Automation Engineer](https://www.tesla.com/en_CA/careers/search/job/tesla-toronto-controls-software-automation-engineering-internship-co-op-summer-2023-159049) </br> [Other Roles](https://www.tesla.com/en_CA/careers/search/?query=Internship&site=CA)
 | TD | [Software Engineer](https://jobs.td.com/en-CA/jobs/16991994/software-engineer-intern-co-op-toronto-ca/) </br> [Other Roles](https://jobs.td.com/en-CA/job-search-results/?sub_category=Internship%2FCo-Op%20and%20Summer%20Opportunities&location=Toronto%2C%20ON%2C%20Canada&latitude=43.653226&longitude=-79.3831843&radius=25)
 | Uber | [Software Engineer](https://university-uber.icims.com/jobs/116847/2023-software-engineer-internship/job) </br>  [Software Engineer (UofT PEY-Coop)](https://university-uber.icims.com/jobs/118086/2023-software-engineer-intern%2c-pey-co-op/job) 
-
 
 
