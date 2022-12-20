@@ -17,5 +17,11 @@
 | Tesla | [Software Automation Engineer](https://www.tesla.com/en_CA/careers/search/job/tesla-toronto-controls-software-automation-engineering-internship-co-op-summer-2023-159049) </br> [Other Roles](https://www.tesla.com/en_CA/careers/search/?query=Internship&site=CA)
 | TD | [Software Engineer](https://jobs.td.com/en-CA/jobs/16991994/software-engineer-intern-co-op-toronto-ca/) </br> [Other Roles](https://jobs.td.com/en-CA/job-search-results/?sub_category=Internship%2FCo-Op%20and%20Summer%20Opportunities&location=Toronto%2C%20ON%2C%20Canada&latitude=43.653226&longitude=-79.3831843&radius=25)
 | Uber | [Software Engineer](https://university-uber.icims.com/jobs/116847/2023-software-engineer-internship/job) </br>  [Software Engineer (UofT PEY-Coop)](https://university-uber.icims.com/jobs/118086/2023-software-engineer-intern%2c-pey-co-op/job) 
+| Binance | [Java Development Intern](https://jobs.lever.co/binance/af989f78-c76a-4656-a504-978133f8256a?lever-source=LinkedInJobs)
+| Overbond | [Data Science Intern](https://jobs.lever.co/overbond/3982e23c-e913-4a51-b237-7108cf3a3fc1)
+| Guidewire | [Software Engineering](https://jobs.lever.co/guidewire/caadef1d-433e-4df3-a28d-69c42331a637?lever-source=LinkedInJobs)
+| BAM | [Software Engineering](https://bamfunds.force.com/s/details?jobReq=Intern--Software-Engineering_REQ4173)
+| Nokia | [R&D Software Engineer](https://aluperf.referrals.selectminds.com/jobs/r-d-software-engineer-co-op-intern-92897)
+
 
 
