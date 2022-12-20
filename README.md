@@ -2,13 +2,13 @@
 | Company | Positions | Notes |
 | --- | --- | --- |
 | Amazon | [Software Engineer](https://www.amazon.jobs/en/jobs/2114265/software-development-engineer-intern-2023-canada)
-| BMO | [Software Developer ](https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Software-Developer--Summer-2023--Co-op-Internship----4-months_R220031108)
-| Dropbox | [Software Engineer](https://jobs.dropbox.com/listing/4380645)
+| BMO | [Software Developer ](https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Software-Developer--Summer-2023--Co-op-Internship----4-months_R220031108) | Closed
+| Dropbox | [Software Engineer](https://jobs.dropbox.com/listing/4380645) | Closed
 | Ebay | [Software Engineer](https://app.ripplematch.com/job/ebay/2b9fc4a1/) </br> [Data Science](https://app.ripplematch.com/job/ebay/ce4506c5/) | graduating dec 2023-june 2024 requirement |
 | Intuit | [Software Engineer](http://jobs.intuit.com/job/toronto/software-developer-co-op/27595/35936209984) </br> [Other Roles](https://jobs.intuit.com/search-jobs/Toronto%2C%20Canada/27595/4/6251999-6093943-6167865/43x70011/-79x4163/50/2)
 | Konrad | [Software Engineer](https://boards.greenhouse.io/konradgroup/jobs/5268040003)
 | Mark43 | [Software Engineer](https://mark43.com/list-job/?gh_jid=4726017)
-| Red Hat | [Software Engineer](https://us-redhat.icims.com/jobs/97300/software-engineering-internship/job)
+| Red Hat | [Software Engineer](https://us-redhat.icims.com/jobs/97300/software-engineering-internship/job) | Closed
 | Ribbit | [Software Engineer - Robotics](https://flyribbit.applytojobs.ca/engineering/14771)
 | Scotiabank | [Software Engineer](https://jobs.scotiabank.com/job/Toronto-Velocity-Software-Engineer-InternshipCo-Op-Summer-2023-ON/565956517/) </br> [Other Roles](https://jobs.scotiabank.com/search/?createNewAlert=false&q=velocity&locationsearch=Toronto%2C+ON%2C+CA)
 | Slack | [Software Engineer](https://salesforce.wd1.myworkdayjobs.com/Slack/job/Canada---Vancouver/XMLNAME-2023-Summer-Intern---Software-Engineer--Slack-_JR158798) | remote position available for toronto 
