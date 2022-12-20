@@ -22,6 +22,7 @@
 | Guidewire | [Software Engineering](https://jobs.lever.co/guidewire/caadef1d-433e-4df3-a28d-69c42331a637?lever-source=LinkedInJobs)
 | BAM | [Software Engineering](https://bamfunds.force.com/s/details?jobReq=Intern--Software-Engineering_REQ4173)
 | Nokia | [R&D Software Engineer](https://aluperf.referrals.selectminds.com/jobs/r-d-software-engineer-co-op-intern-92897)
-
-
-
+| Square | [Software Engineer Intern](https://jobs.smartrecruiters.com/Square/743999871611051-software-engineer-intern-toronto-summer-2023-?source=Linkedin)
+| Affirm | [Software Engineer](https://boards.greenhouse.io/affirm/jobs/5283830003?gh_src=689c81d53us&source=LinkedIn)
+| Perseus Group | [Software Development](https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/perseus-careers/job/Remote---CAN/Software-Development---Intern_R31451?source=Linkedin)
+| Matrox | [Intern, Development of Embedded Systems for Video Streaming](https://www.matrox.com/en/career/intern-development-embedded-systems-video-streaming-s-01-02-summer-2023)
